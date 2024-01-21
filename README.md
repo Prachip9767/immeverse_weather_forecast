@@ -29,7 +29,7 @@ The Weather Forecast App gives you the most accurate world-leading global weathe
 
 * Step 1: Open your Android Studio then go to the File > New > Project from Version Control as shown in the below image.
 * Step 2: After clicking on the Project from Version Control a pop-up screen will arise like below. In the Version control choose Git from the drop-down menu.
-* Step 3: Then at last paste this ( [https://github.com/Prachip9767/weather_forcast_app.git](https://github.com/Prachip9767/immeverse_weather_forecast.git) ) link in the URL and choose your Directory. Click on the Clone button and you are done.
+* Step 3: Then at last paste this ( [https://github.com/Prachip9767/immeverse_weather_forecast.git](https://github.com/Prachip9767/immeverse_weather_forecast.git) ) link in the URL and choose your Directory. Click on the Clone button and you are done.
 
 
 # Clone this Repo To Your System Using GitBash✨
@@ -46,9 +46,9 @@ The Weather Forecast App gives you the most accurate world-leading global weathe
 
 * Click on “Clone or download” and copy the URL.
 
-* Use the git clone command along with the copied URL from earlier. $ git clone [https://github.com/Prachip9767/weather_forcast_app.git](https://github.com/Prachip9767/immeverse_weather_forecast.git)
+* Use the git clone command along with the copied URL from earlier. $ git clone [https://github.com/Prachip9767/immeverse_weather_forecast.git](https://github.com/Prachip9767/immeverse_weather_forecast.git)
 
-* Press Enter. $ git clone [https://github.com/Prachip9767/weather_forcast_app.git](https://github.com/Prachip9767/immeverse_weather_forecast.git) Cloning into Git … remote: Counting objects: 13, done. remote: Compressing objects: 100% (13/13), done. remove: Total 13 (delta 1), reused 0 (delta 1) Unpacking objects: 100% (13/13), done.
+* Press Enter. $ git clone [https://github.com/Prachip9767/immeverse_weather_forecast.git](https://github.com/Prachip9767/immeverse_weather_forecast.git) Cloning into Git … remote: Counting objects: 13, done. remote: Compressing objects: 100% (13/13), done. remove: Total 13 (delta 1), reused 0 (delta 1) Unpacking objects: 100% (13/13), done.
 
 Congratulations, you have created your first local clone from your remote Github repository.
 
